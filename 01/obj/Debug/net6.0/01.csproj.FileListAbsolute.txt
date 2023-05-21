@@ -1,0 +1,15 @@
+D:\00_GeekBrains\Урок 1. Знакомство с языком программирования С# СЕМИНАР\Sem01\01\bin\Debug\net6.0\01.exe
+D:\00_GeekBrains\Урок 1. Знакомство с языком программирования С# СЕМИНАР\Sem01\01\bin\Debug\net6.0\01.deps.json
+D:\00_GeekBrains\Урок 1. Знакомство с языком программирования С# СЕМИНАР\Sem01\01\bin\Debug\net6.0\01.runtimeconfig.json
+D:\00_GeekBrains\Урок 1. Знакомство с языком программирования С# СЕМИНАР\Sem01\01\bin\Debug\net6.0\01.dll
+D:\00_GeekBrains\Урок 1. Знакомство с языком программирования С# СЕМИНАР\Sem01\01\bin\Debug\net6.0\01.pdb
+D:\00_GeekBrains\Урок 1. Знакомство с языком программирования С# СЕМИНАР\Sem01\01\obj\Debug\net6.0\01.csproj.AssemblyReference.cache
+D:\00_GeekBrains\Урок 1. Знакомство с языком программирования С# СЕМИНАР\Sem01\01\obj\Debug\net6.0\01.GeneratedMSBuildEditorConfig.editorconfig
+D:\00_GeekBrains\Урок 1. Знакомство с языком программирования С# СЕМИНАР\Sem01\01\obj\Debug\net6.0\01.AssemblyInfoInputs.cache
+D:\00_GeekBrains\Урок 1. Знакомство с языком программирования С# СЕМИНАР\Sem01\01\obj\Debug\net6.0\01.AssemblyInfo.cs
+D:\00_GeekBrains\Урок 1. Знакомство с языком программирования С# СЕМИНАР\Sem01\01\obj\Debug\net6.0\01.csproj.CoreCompileInputs.cache
+D:\00_GeekBrains\Урок 1. Знакомство с языком программирования С# СЕМИНАР\Sem01\01\obj\Debug\net6.0\01.dll
+D:\00_GeekBrains\Урок 1. Знакомство с языком программирования С# СЕМИНАР\Sem01\01\obj\Debug\net6.0\refint\01.dll
+D:\00_GeekBrains\Урок 1. Знакомство с языком программирования С# СЕМИНАР\Sem01\01\obj\Debug\net6.0\01.pdb
+D:\00_GeekBrains\Урок 1. Знакомство с языком программирования С# СЕМИНАР\Sem01\01\obj\Debug\net6.0\01.genruntimeconfig.cache
+D:\00_GeekBrains\Урок 1. Знакомство с языком программирования С# СЕМИНАР\Sem01\01\obj\Debug\net6.0\ref\01.dll
