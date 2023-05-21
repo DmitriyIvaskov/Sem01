@@ -11,9 +11,11 @@ int secondtNumber = Convert.ToInt32(Console.ReadLine());
 
 if (firstNumber == secondtNumber * secondtNumber)
 {
+    // да истина
     Console.WriteLine("Число " + firstNumber + " является квадратом числа " + secondtNumber);
 }
-else 
+else
 {
+    // Нет
     Console.WriteLine("Число " + firstNumber + " НЕ является квадратом числа " + secondtNumber);
 }
